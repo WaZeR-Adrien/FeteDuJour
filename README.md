@@ -1,5 +1,5 @@
 # FeteDuJour
-Plugin WordPress for get the party of the day (ONLY IN FRENCH)
+Plugin WordPress to get the party of the day (ONLY IN FRENCH)
 
 ## Installation
 1. Download and unzip wp-content/plugins or install directly via Plugins / Add new.
